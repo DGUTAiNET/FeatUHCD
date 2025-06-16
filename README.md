@@ -1,2 +1,2 @@
 # FeatUHCD
-The epoch-wise detection visualized results during FeatUHCD training.
+The epoch-wise detection visual results during FeatUHCD training.
